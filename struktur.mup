@@ -1,5 +1,214 @@
 {
   "title": "Zum Stand der Entwicklung einer offenen Dateninfrastruktur",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "II. Ausblick",
+      "id": 3
+    },
+    "2": {
+      "title": "Elemente einer offenen Dateninfrastruktur",
+      "id": 55,
+      "ideas": {
+        "1": {
+          "title": "Katalogisierungsregeln",
+          "id": 57
+        },
+        "2": {
+          "title": "Datenmodelle & Anwendungsprofile",
+          "id": 59
+        }
+      }
+    },
+    "-10": {
+      "title": "I. Vergangene Enwicklung: Überblick & Beispiele",
+      "id": 2,
+      "ideas": {
+        "5": {
+          "title": "Akteure",
+          "id": 33,
+          "attr": {
+            "style": {}
+          },
+          "ideas": {
+            "1": {
+              "title": "International: OpenLibrary, MIT, DPLA, OCLC",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant",
+                  "id": 11
+                },
+                "2": {
+                  "title": "https://openlibrary.org/",
+                  "id": 14
+                },
+                "3": {
+                  "title": "http://www.oclc.org/data/attribution.en.html",
+                  "id": 31
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "Europa: Europeana, TEL",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "http://www.theeuropeanlibrary.org/tel4/newsitem/2450",
+                  "id": 15
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "3": {
+              "title": "National: Nationalbibliotheken",
+              "id": 6,
+              "ideas": {
+                "1": {
+                  "title": "http://www.nb.admin.ch/dienstleistungen/04161/index.html?lang=de",
+                  "id": 16
+                },
+                "2": {
+                  "title": "https://natlib.govt.nz/about-us/open-data",
+                  "id": 18
+                },
+                "3": {
+                  "title": "http://www.libereurope.eu/sites/default/files/CENL%20adopts%20CC0.pdf",
+                  "id": 19
+                },
+                "4": {
+                  "title": "http://datendienst.dnb.de/cgi-bin/mabit.pl?userID=opendata&pass=opendata&cmd=login",
+                  "id": 20
+                },
+                "5": {
+                  "title": "BnF",
+                  "id": 21
+                },
+                "6": {
+                  "title": "http://www.bl.uk/bibliographic/datafree.html",
+                  "id": 23
+                },
+                "7": {
+                  "title": "http://datos.bne.es/",
+                  "id": 39
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "4": {
+              "title": "Regional: Bibliotheksverbünde",
+              "id": 4,
+              "ideas": {
+                "1": {
+                  "title": "http://lobid.org/",
+                  "id": 25
+                },
+                "2": {
+                  "title": "http://www.hebis.de/de/1ueber_uns/projekte/lod/lod_news_120723.php",
+                  "id": 27
+                },
+                "3": {
+                  "title": "https://wiki.bsz-bw.de/doku.php?id=v-team:daten:openaccess:start",
+                  "id": 28
+                },
+                "4": {
+                  "title": "http://www.bib-bvb.de/web/b3kat/open-data",
+                  "id": 29
+                }
+              },
+              "attr": {
+                "style": {}
+              }
+            },
+            "5": {
+              "title": "Verlage",
+              "id": 40,
+              "ideas": {
+                "1": {
+                  "title": "http://data.nature.com/",
+                  "id": 42
+                }
+              }
+            }
+          }
+        },
+        "6": {
+          "title": "Use Cases",
+          "id": 34,
+          "ideas": {
+            "1": {
+              "title": "Titeldaten",
+              "id": 35
+            },
+            "2": {
+              "title": "Work Clusters",
+              "id": 36
+            },
+            "3": {
+              "title": "Normdaten",
+              "id": 37,
+              "ideas": {
+                "1": {
+                  "title": "viaf",
+                  "id": 47
+                },
+                "2": {
+                  "title": "gnd",
+                  "id": 48
+                },
+                "3": {
+                  "title": "...",
+                  "id": 50
+                }
+              }
+            },
+            "4": {
+              "title": "Zirkulationsdaten",
+              "id": 38
+            },
+            "5": {
+              "title": "Bibliographien",
+              "id": 43,
+              "ideas": {
+                "1": {
+                  "title": "http://www.informatik.uni-trier.de/~ley/db/",
+                  "id": 45
+                }
+              }
+            }
+          }
+        },
+        "7": {
+          "title": "Anwendungen",
+          "id": 51,
+          "ideas": {
+            "1": {
+              "title": "http://lobid.org/nwbib",
+              "id": 46,
+              "attr": {
+                "style": {}
+              }
+            },
+            "2": {
+              "title": "edoweb",
+              "id": 53
+            },
+            "3": {
+              "title": "Datentankstelle",
+              "id": 54
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
 }
