@@ -3,33 +3,174 @@
   "id": 1,
   "formatVersion": 2,
   "ideas": {
-    "1": {
-      "title": "II. Ausblick",
-      "id": 3
-    },
     "2": {
-      "title": "Elemente einer offenen Dateninfrastruktur",
+      "title": "0. Elemente einer offenen Dateninfrastruktur",
       "id": 55,
       "ideas": {
         "1": {
           "title": "Katalogisierungsregeln",
-          "id": 57
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "3": {
+          "title": "(Meta)datenstandards",
+          "id": 61,
+          "ideas": {
+            "1": {
+              "title": "Serializations",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
+            },
+            "2": {
+              "title": "Encodings",
+              "id": 63,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
+            },
+            "0.5": {
+              "title": "Datenmodelle, Vokabulare/Schemas & Anwendungsprofile",
+              "id": 59,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "4": {
+          "title": "Protokolle und Schnittstellen",
+          "id": 66,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Read/Write",
+              "id": 69,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
+            },
+            "2": {
+              "title": "Sync",
+              "id": 71,
+              "attr": {
+                "style": {
+                  "background": "#ff9900"
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "Software & Konfigurationsdateien",
+          "id": 68,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "6": {
+          "title": "Mappings",
+          "id": 67,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        },
+        "7": {
+          "title": "Daten",
+          "id": 83,
+          "attr": {
+            "style": {
+              "background": "#ff9900"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#ff9900"
+        }
+      }
+    },
+    "12": {
+      "title": "2. Ausblick",
+      "id": 3,
+      "attr": {
+        "style": {
+          "background": "#ffff00"
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "NextGen Library Systems",
+          "id": 74,
+          "ideas": {
+            "1": {
+              "title": "Offene APIs? - Teilweise",
+              "id": 76
+            },
+            "2": {
+              "title": "OpenData? - Wird unterstützt.",
+              "id": 77
+            },
+            "3": {
+              "title": "Offene, standardisiert Schnittstellen? - teilweise",
+              "id": 78
+            },
+            "4": {
+              "title": "Offene Software/ Konfigurationsdateien? - Nein.",
+              "id": 79,
+              "ideas": {
+                "1": {
+                  "title": "Bsp. WorldCat works.",
+                  "id": 81
+                }
+              }
+            }
+          }
         },
         "2": {
-          "title": "Datenmodelle & Anwendungsprofile",
-          "id": 59
+          "title": "Katalogisierungsregeln: RDA",
+          "id": 82
         }
       }
     },
     "-10": {
-      "title": "I. Vergangene Enwicklung: Überblick & Beispiele",
+      "title": "1. Vergangene Enwicklung: Überblick & Beispiele",
       "id": 2,
       "ideas": {
         "5": {
           "title": "Akteure",
           "id": 33,
           "attr": {
-            "style": {}
+            "style": {
+              "background": "#99cc00"
+            }
           },
           "ideas": {
             "1": {
@@ -38,19 +179,36 @@
               "ideas": {
                 "1": {
                   "title": "http://library.harvard.edu/12162013-1308/harvard-cornell-stanford-libraries-project-receives-grant",
-                  "id": 11
+                  "id": 11,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "2": {
                   "title": "https://openlibrary.org/",
-                  "id": 14
+                  "id": 14,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "3": {
                   "title": "http://www.oclc.org/data/attribution.en.html",
-                  "id": 31
+                  "id": 31,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 }
               },
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#99cc00"
+                }
               }
             },
             "2": {
@@ -59,11 +217,18 @@
               "ideas": {
                 "1": {
                   "title": "http://www.theeuropeanlibrary.org/tel4/newsitem/2450",
-                  "id": 15
+                  "id": 15,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 }
               },
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#99cc00"
+                }
               }
             },
             "3": {
@@ -72,35 +237,72 @@
               "ideas": {
                 "1": {
                   "title": "http://www.nb.admin.ch/dienstleistungen/04161/index.html?lang=de",
-                  "id": 16
+                  "id": 16,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "2": {
                   "title": "https://natlib.govt.nz/about-us/open-data",
-                  "id": 18
+                  "id": 18,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "3": {
                   "title": "http://www.libereurope.eu/sites/default/files/CENL%20adopts%20CC0.pdf",
-                  "id": 19
+                  "id": 19,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "4": {
                   "title": "http://datendienst.dnb.de/cgi-bin/mabit.pl?userID=opendata&pass=opendata&cmd=login",
-                  "id": 20
+                  "id": 20,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "5": {
                   "title": "BnF",
-                  "id": 21
+                  "id": 21,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "6": {
                   "title": "http://www.bl.uk/bibliographic/datafree.html",
-                  "id": 23
+                  "id": 23,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "7": {
                   "title": "http://datos.bne.es/",
-                  "id": 39
+                  "id": 39,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 }
               },
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#99cc00"
+                }
               }
             },
             "4": {
@@ -109,23 +311,45 @@
               "ideas": {
                 "1": {
                   "title": "http://lobid.org/",
-                  "id": 25
+                  "id": 25,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "2": {
                   "title": "http://www.hebis.de/de/1ueber_uns/projekte/lod/lod_news_120723.php",
-                  "id": 27
+                  "id": 27,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "3": {
                   "title": "https://wiki.bsz-bw.de/doku.php?id=v-team:daten:openaccess:start",
-                  "id": 28
+                  "id": 28,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "4": {
                   "title": "http://www.bib-bvb.de/web/b3kat/open-data",
-                  "id": 29
+                  "id": 29,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 }
               },
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#99cc00"
+                }
               }
             },
             "5": {
@@ -134,7 +358,17 @@
               "ideas": {
                 "1": {
                   "title": "http://data.nature.com/",
-                  "id": 42
+                  "id": 42,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
                 }
               }
             }
@@ -146,11 +380,21 @@
           "ideas": {
             "1": {
               "title": "Titeldaten",
-              "id": 35
+              "id": 35,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "2": {
               "title": "Work Clusters",
-              "id": 36
+              "id": 36,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "3": {
               "title": "Normdaten",
@@ -158,21 +402,46 @@
               "ideas": {
                 "1": {
                   "title": "viaf",
-                  "id": 47
+                  "id": 47,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "2": {
                   "title": "gnd",
-                  "id": 48
+                  "id": 48,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
                 },
                 "3": {
                   "title": "...",
-                  "id": 50
+                  "id": 50,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
                 }
               }
             },
             "4": {
               "title": "Zirkulationsdaten",
-              "id": 38
+              "id": 38,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "5": {
               "title": "Bibliographien",
@@ -180,9 +449,24 @@
               "ideas": {
                 "1": {
                   "title": "http://www.informatik.uni-trier.de/~ley/db/",
-                  "id": 45
+                  "id": 45,
+                  "attr": {
+                    "style": {
+                      "background": "#99cc00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
                 }
               }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
             }
           }
         },
@@ -194,18 +478,49 @@
               "title": "http://lobid.org/nwbib",
               "id": 46,
               "attr": {
-                "style": {}
+                "style": {
+                  "background": "#99cc00"
+                }
               }
             },
             "2": {
               "title": "edoweb",
-              "id": 53
+              "id": 53,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
             },
             "3": {
               "title": "Datentankstelle",
-              "id": 54
+              "id": 54,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            },
+            "4": {
+              "title": "USB nutzt offene Verbundddaten zur Migration von Institutskatalogen in USB-/Verbundkatalog",
+              "id": 73,
+              "attr": {
+                "style": {
+                  "background": "#99cc00"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#99cc00"
             }
           }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#99cc00"
         }
       }
     }
